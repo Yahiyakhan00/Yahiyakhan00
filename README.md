@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascripr
 - 💞️ I’m looking to collaborate on google
-- 📫 How to reach me on microsoft
+- 📫 How to get hire in microsoft
 - 😄 Pronouns: khan
 - ⚡ Fun fact: boring is bored until u like to do it on daily life work
 
